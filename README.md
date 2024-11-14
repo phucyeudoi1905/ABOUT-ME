@@ -18,8 +18,7 @@ Em/minh la sinh vien IT nam 3 tai truong Dai Hoc Da Lat, minh nuoi 3 con meo. Mi
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=antiAsolbacki&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Phucyeudoi&label=Profile%20Views&color=10&icon=1&pretty=false)](https://visitcount.itsvg.in)
