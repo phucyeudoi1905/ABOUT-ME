@@ -1,5 +1,5 @@
 # 💫About Me :
-Em/minh la sinh vien IT nam 3 tai truong Dai Hoc Da Lat, minh nuoi 3 con meo. Minh dang hoc nhieu thu lam, tam biet
+Em/minh la sinh vien IT nam 3 tai truong Dai Hoc Da Lat, minh nuoi 3 con meo. Minh dang hoc nhieu thu lam,nhung minh khong hieu het, nen dung hoi minh tam biet
 
 
 ## 🌐Socials
